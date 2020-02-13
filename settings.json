@@ -1,5 +1,5 @@
 {
   "turn_off_after": -1,
   "banned_processes": [],
-  "use_stealth_killer": false
+  "use_stealth_killer": true
 }
